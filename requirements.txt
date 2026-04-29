@@ -1,8 +1,9 @@
-pandas
-scikit-learn==1.4.2
-feature-engine
 flask
 flask-wtf
 gunicorn
-xgboost
 numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+xgboost
+feature-engine==1.9.4
+joblib
