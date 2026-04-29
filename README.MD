@@ -35,7 +35,7 @@ flight-price-prediction-ml/
 ```
 ##  How to Run This Project
 
-git clone https://github.com/your-username/flight-price-prediction-ml.git
+git clone https://github.com/vimal-kumar-3/flight-price-prediction-ml-project.git
 
 pip install -r requirements.txt
 
