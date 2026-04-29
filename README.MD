@@ -1,6 +1,4 @@
 #  Flight Price Prediction ML Project
-##  Live Demo
-link-
 ## 📌 Overview
 This project is a Machine Learning web application that predicts flight ticket prices based on input features like airline, source, destination, date, time, and duration.
 ##  Features
@@ -41,9 +39,7 @@ pip install -r requirements.txt
 
 python app.py
 
-##  Deployment (Render)
-- Project is deployed on Render
-- GitHub repo connected to Render
+
 
 
 
