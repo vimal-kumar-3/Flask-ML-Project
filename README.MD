@@ -8,3 +8,10 @@ This project is a Machine Learning web application that predicts flight ticket p
 - User-friendly web interface
 - Real-time predictions
 - Machine Learning model integration
+## 🛠️ Tech Stack
+- Python
+- Flask
+- Scikit-learn
+- Pandas
+- NumPy
+- HTML/CSS
