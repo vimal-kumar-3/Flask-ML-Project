@@ -25,7 +25,7 @@ flight-price-prediction-ml/
 │
 ├── static/
 ├── templates/
-├── model.pkl
+├── model.joblib
 ├── app.py
 ├── requirements.txt
 └── README.md
