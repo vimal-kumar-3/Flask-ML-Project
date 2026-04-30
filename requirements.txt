@@ -1,6 +1,7 @@
 pandas
 feature-engine
 flask
+numpy==1.26.4
 flask-wtf
 gunicorn
 xgboost
